@@ -38,12 +38,12 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
 
 
-## SKETCHS
+## SKETCHS 
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
 
-![Screenshot 2024-12-06 141300](https://github.com/user-attachments/assets/c13c9535-8e2c-4550-a7b1-8b0d1f092fb9)
+![Screenshot 2024-12-09 211114](https://github.com/user-attachments/assets/e8f7aea6-a866-4172-a003-e377de6702af)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
